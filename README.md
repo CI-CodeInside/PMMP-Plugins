@@ -1,4 +1,4 @@
-PMMP-Plugin
+PMMP-Plugins
 ===========
 
-Core Plugin
+:)
